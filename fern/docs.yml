@@ -1,5 +1,5 @@
 instances:
-  - url: your-organization.docs.buildwithfern.com
+  - url: doug.docs.buildwithfern.com
 
 title: Your Organization | Docs
 
@@ -10,6 +10,10 @@ navigation:
         path: ./docs/pages/welcome.mdx
       - page: SDKs
         path: ./docs/pages/sdks.mdx
+      - page: Polytomic Introduction
+        path: ./docs/pages/polytomic_intro.mdx
+      - page: Polytomic Quickstart
+        path: ./docs/pages/polytomic_quickstart.mdx
   - api: API Reference
 
 navbar-links: 
